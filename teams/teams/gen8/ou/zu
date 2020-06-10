@@ -1,33 +1,39 @@
-Machoke @ Eviolite  
-Ability: Guts  
-EVs: 252 HP / 252 Atk / 4 SpD  
-Adamant Nature  
-- Knock Off  
-- Close Combat  
-- Rest  
-- Sleep Talk  
-
-Togetic @ Eviolite  
-Ability: Super Luck  
-EVs: 252 HP / 4 SpA / 252 SpD  
-Calm Nature  
+Bronzor @ Eviolite  
+Ability: Levitate  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
 IVs: 0 Atk  
-- Roost  
-- Defog  
-- Heal Bell  
-- Dazzling Gleam  
+- Toxic  
+- Stealth Rock  
+- Flash Cannon  
+- Rest  
 
-Linoone-Galar @ Toxic Orb  
-Ability: Quick Feet  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Knock Off  
-- Parting Shot  
-- Facade  
-- Taunt  
+Gloom @ Eviolite  
+Ability: Stench  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Strength Sap  
+- Sludge Bomb  
+- Moonblast  
+- Synthesis  
+
+Wartortle @ Eviolite  
+Ability: Torrent  
+Shiny: Yes  
+EVs: 108 HP / 252 SpA / 148 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Shell Smash  
+- Surf  
+- Rapid Spin  
 
 Klang @ Eviolite  
 Ability: Clear Body  
+Shiny: Yes  
 EVs: 252 HP / 108 Def / 148 SpD  
 Careful Nature  
 - Gear Grind  
@@ -35,22 +41,23 @@ Careful Nature
 - Sleep Talk  
 - Toxic  
 
-Silvally-Grass @ Grass Memory  
-Ability: RKS System  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Multi-Attack  
-- Swords Dance  
-- Flame Charge  
-- Rock Slide  
+Vullaby @ Eviolite  
+Ability: Overcoat  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Roost  
+- Defog  
+- Knock Off  
+- U-turn  
 
-Pyukumuku @ Leftovers  
-Ability: Unaware  
-EVs: 252 HP / 252 Def / 4 SpD  
-Bold Nature  
-IVs: 0 Atk  
-- Recover  
-- Toxic  
+Munchlax @ Eviolite  
+Ability: Thick Fat  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Body Slam  
 - Rest  
-- Spite  
+- Sleep Talk  
+- Whirlwind  
 
